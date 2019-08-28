@@ -1,0 +1,6 @@
+type,email,username,customer,SKU,lgl_country,lgl_geo2_eng,lgl_geo3_eng,lgl_lsku,Access,Auth_systems
+LG,april@localgravity.com,april,Gravity,Gravity-s,CHN,*,*,*,"select,insert,update,delete",LEAP|FLOW
+Client,Nick_Wang@skechers.cn,Nick Wang,skechers,"Skechers-s,SkecherKid-s,SkecherOul-s,SkecDLites-s,SkecheLSty-s,MarkNason-s",CHN,*,*,*,"select,insert,update,delete",LEAP|FLOW
+Client,michelle.cong@hm.com,Cong Michelle,HM,"HM-s,HMMen-s",CHN-ALL,*,*,*,"select,insert,update,delete",LEAP|FLOW
+Client,monica.wang@hm.com,Wang Monica,HM,"HM-s,HMMen-s",CHN-ALL,*,*,*,"select,insert,update,delete",LEAP|FLOW
+Client,sherry.wang@hm.com,Wang Sherry,HM,"HM-s,HMMen-s",CHN-ALL,*,*,*,"select,insert,update,delete",LEAP|FLOW
